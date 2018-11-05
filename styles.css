@@ -1,0 +1,14 @@
+body{
+    background-color:rgba(218, 215, 248, 0.5);
+    background: url("https://i.pinimg.com/474x/15/d6/01/15d60135b4610efc142f6a2ac11f28ca--cat-pattern-wallpaper-backgrounds-wallpapers.jpg");
+}
+h1{
+    font-family:'Pacifico', cursive;
+}
+h2{
+    font-family:'Pacifico', cursive;
+}
+img{
+    height: 375px;
+    border:10px solid#EAD7F8;
+}
